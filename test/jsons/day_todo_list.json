@@ -1,0 +1,15 @@
+{
+	"date": {
+		"year": "2021",
+		"month": "Feb",
+		"day": "3",
+		"week_day": "sunday"
+	},
+	"todos": [{
+			"time": "09:00 AM",
+			"title": "Design team meeting",
+			"color": "0xFFEF5350",
+			"done": true
+		}
+	]
+}
